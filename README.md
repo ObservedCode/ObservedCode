@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://discord.gg/MeFTfZZCyW
 - 😄 Pronouns: He/Him
 - 🎸 Fun fact: I was in a band (guitar)
+- 🔮 I stream on [twitch](https://www.twitch.tv/observed_)
+- 🛑 I'm on [youtube](https://www.youtube.com/channel/UCgmyYl_6elcWdJLUzYi6IWA)
