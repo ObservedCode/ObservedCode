@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+<img src="https://media.giphy.com/media/8fRwPZtbWkkX6/giphy.gif" />
+
 - 🔭 I’m currently working on Typescript React Redux Graphql Apollo
 - 🌱 I’m currently learning everyday
 - 👯 I’m looking to collaborate on whatever you want
